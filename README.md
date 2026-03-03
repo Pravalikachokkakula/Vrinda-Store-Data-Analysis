@@ -1,7 +1,6 @@
 # Vrinda-Store-Data-Analysis
 Objective
-Vrinda Store aims to create an annual sales report for 2022 to better understand customer behavior, sales performance, and channel contribution.  
-The goal is to derive actionable insights that will help increase sales and improve strategic decision-making in 2023.
+Vrinda store wants to create an annual sales report for 2022 so that Vrinda can understand their customers and grow more sales in 2023.
 
 Key Insights
 Women customers contribute ~65% of total sales.
